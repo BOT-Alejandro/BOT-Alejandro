@@ -1,3 +1,3 @@
 - 👋 Que tal, Soy @BOT-Alejandro
-- Este repositorio esta hechop para compartir mi proyecto para android el cual consiste en ubicar y informar y permitir que estudiantes puedan buscar una nueva universidad para dar el siguiente paso o en caso contrario regresar a los estudios.
-- Esto tambien sirve como un espacio para guardar mi proyecto y volverlo a ver cuando lo quiera retomar
+- Este repositorio esta hechop para compartir mis proyectos desarrollados en Android Studio
+- Esto tambien sirve como un espacio para informar a mis compañeros involucrados en el dia a dia de el desarrollo.
